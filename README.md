@@ -1,4 +1,4 @@
-# text-bot
+# TextCrawler
 Text mining 
 
 The analysis parts are calculating the frequency of words in a text file,
